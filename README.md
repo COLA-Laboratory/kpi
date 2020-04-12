@@ -13,6 +13,7 @@
 <p align="center">
     <img src="https://github.com/COLA-Laboratory/kpi/blob/master/gif/PMOP1_M2_A2.gif" width="400"/><img src="https://github.com/COLA-Laboratory/kpi/blob/master/gif/PMOP1_M3_A2.gif" width="400"/>
 </p>
+
 - Example of a problem with more than one knee point
 <p align="center">
     <img src="https://github.com/COLA-Laboratory/kpi/blob/master/gif/PMOP1_M2_A4.gif" width="400"/><img src="https://github.com/COLA-Laboratory/kpi/blob/master/gif/PMOP1_M3_A4.gif" width="400"/>
