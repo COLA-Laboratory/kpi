@@ -1,3 +1,5 @@
+# Knee Point Identification Based on Trade-Off Utility
+
 ## Installation guide
 * `Python version should be 3.6`
 * Install thrid-party packages (In `Anacaonda` environment)
@@ -18,3 +20,6 @@
 <p align="center">
     <img src="https://github.com/COLA-Laboratory/kpi/blob/master/gif/PMOP1_M2_A4.gif" width="400"/><img src="https://github.com/COLA-Laboratory/kpi/blob/master/gif/PMOP1_M3_A4.gif" width="400"/>
 </p>
+
+## Reference
+K. Li, H. Nie, H. Gao and X. Yao, "Knee Point Identification Based on Trade-Off Utility", submitted for peer review, May, 2020.
