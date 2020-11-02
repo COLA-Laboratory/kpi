@@ -25,4 +25,4 @@
 </p>
 
 ## Reference
-K. Li, H. Nie, H. Gao and X. Yao, "Knee Point Identification Based on Trade-Off Utility", submitted for peer review, May, 2020.
+K. Li, H. Nie, H. Gao and X. Yao, "Posterior Decision-Making Based on Decomposition-Driven Knee Point Identification", submitted for peer review, May, 2020.
